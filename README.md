@@ -165,13 +165,13 @@ XML markup is human-readable and naturally represents hierarchical clinical sect
 
 ## Team
 
-| Name | Role | Institution |
-|------|------|-------------|
-| CUNGI Pierre-Julien, M.D | Principal Investigator, Clinical Expertise | HNIA Sainte Anne ICU, Toulon |
-| **KALMOGO Lucien (Lucien), MSc** | **Pipeline Development, Streamlit App** | **Aix-Marseille Université** |
-| MONDRAGON Osvaldo, Ing | Software Engineering | Aix-Marseille Université |
-| NDITANCHOU Rogers, M.D, PhD | Medical Validation | — |
-| OUATTARA Cheick Ahmed, M.D, MSc, PhD | Medical Expertise | Souro Sanou University Hospital, BF |
+| Name | Role | 
+|------|------|
+| CUNGI Pierre-Julien, M.D | Principal Investigator, Clinical Expertise | 
+| **KALMOGO Lucien (Lucien), MSc** | **Pipeline Development, Streamlit App** |
+| MONDRAGON Osvaldo, Ing | Quality control and evaluation | 
+| NDITANCHOU Rogers, M.D, PhD | Medical Validation | 
+| OUATTARA Cheick Ahmed, M.D, MSc, PhD | Medical Validation|
 
 ---
 
